@@ -1,0 +1,4 @@
+solana
+numpy
+pandas
+tensorflow
