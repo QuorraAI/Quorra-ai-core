@@ -55,3 +55,5 @@ pip install -r requirements.txt
 ```bash
 python quorra_ai.py
 ```
+
+![Quorra AI](https://github.com/QuorraAI/Quorra-ai-core/blob/main/images/quorra_banner.jpeg?raw=true)
