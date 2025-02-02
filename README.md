@@ -1,5 +1,5 @@
 # Quorra AI - Core
-![Quorra AI](https://github.com/QuorraAI/Quorra-ai-core/blob/main/images/quorra.png?raw=true)
+![Quorra AI](https://github.com/QuorraAI/Quorra-ai-core/blob/main/images/quorra_banner.jpeg?raw=true)
 
 Quorra AI is an adaptive market-making AI designed for Solana's DEX ecosystem.
 
@@ -55,5 +55,3 @@ pip install -r requirements.txt
 ```bash
 python quorra_ai.py
 ```
-
-![Quorra AI](https://github.com/QuorraAI/Quorra-ai-core/blob/main/images/quorra_banner.jpeg?raw=true)
